@@ -1,0 +1,16 @@
+Makefile
+config.*
+.deps
+*.la
+*.o
+*.lo
+stamp-h1
+ubus-mqtt
+*.swp
+*.swo
+autom4te.cache
+configure.scan
+.libs
+build
+build_arm
+*.tar.gz
